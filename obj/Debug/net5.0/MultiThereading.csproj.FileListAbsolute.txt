@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\bin\Debug\net5.0\MultiThereading.exe
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\bin\Debug\net5.0\MultiThereading.deps.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\bin\Debug\net5.0\MultiThereading.runtimeconfig.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\bin\Debug\net5.0\MultiThereading.runtimeconfig.dev.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\bin\Debug\net5.0\MultiThereading.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\bin\Debug\net5.0\MultiThereading.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\MultiThereading.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\MultiThereading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\MultiThereading.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\MultiThereading.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\MultiThereading.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\MultiThereading.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\refint\MultiThereading.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\MultiThereading.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\MultiThereading.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Garage\BackEnd\MultiThereading\obj\Debug\net5.0\ref\MultiThereading.dll
